@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d777d270cee3a5c419cb21a828556f1a, type: 3}
+  m_Name: CodeMonkeyFreeSO
+  m_EditorClassIdentifier: 
+  currentVersion: 1.00
+  subtype: lunarLanderFree
+  lastShownTimestamp: 1757480820
+  lastUpdateResponse:
+    version: 1.00
+    versionUrl: https://unitycodemonkey.com
+  checkedLastUpdateTimestamp: 1757480820
+  lastQOTDResponse:
+    questionId: 219
+    questionText: 'Does this variable get reset when you load a different Scene?
+
+      <p>private
+      static int score;</p>'
+    answerA: Yes
+    answerB: No
+    answerC: Only when loading the Main Menu
+    answerD: 
+    answerE: 
+  lastQotdTimestamp: 1757480820
+  lastDynamicHeaderResponse:
+    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/humbleBundleAug25RealisticEnv.png
+    topText: AWESOME Realistic Environments 99% OFF!
+    topLink: humblebundle
+    bottomText: My 10+ Years of C# Knowledge in 1 Course!
+    bottomLink: csharpcourse
+  lastDynamicHeaderTimestamp: 1757480820
+  websiteLatestMessage:
+    text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
+      Click here!</a>
+  websiteLatestMessageTimestamp: 1757480820
+  websiteLatestVideos:
+    videos:
+    - youTubeId: ftVR1xwfO5g
+      title: AWESOME FREE Unity Best Practices Tutorials!
+    - youTubeId: mM8B9YPEC10
+      title: You NEED to do this exercise!
+    - youTubeId: 9EOhc8Kn1E0
+      title: 'Game Devs, don''t be AFRAID of Hollow Knight: Silksong!'
+    - youTubeId: 8Ym28WJUYnQ
+      title: The BIGGEST Problem in Game Dev!
+  websiteLatestVideosTimestamp: 1757480820
